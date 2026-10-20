@@ -1,0 +1,9 @@
+.venv*/
+__pycache__/
+*.pyc
+*.apk
+*.bin
+*.zip
+!docs/*.zip
+android-sdk/
+system-images/
